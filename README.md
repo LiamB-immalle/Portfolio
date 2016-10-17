@@ -1,5 +1,5 @@
 # CSharp
-'''
+'''CS
 using System;
 					
 public class Program
