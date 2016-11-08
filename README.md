@@ -6,14 +6,14 @@ public class Program
 {
 	public static void Main()
 	{
-		double euro = Dollartoeuro(37.50);
+		double euro = DollarToEuro(37.50);
 		Console.WriteLine("37.50 dollar is {0} euro", euro);
 		
 		double vol = KubusVolume(1.2);
 		Console.WriteLine("kubus met ribbe 1.2 heeft een opp van {0}", vol);
 	}
 	
-	private static double Dollartoeuro(double dollar){
+	private static double DollarToEuro(double dollar){
 		
 		double change = dollar * 0.91;
 		return change;
