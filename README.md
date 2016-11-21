@@ -1,6 +1,6 @@
 # CSharp
-
-```CSharp
+- Made a little exercise about mathematic formulas
+``` CSharp
 using System;
 					
 public class Program
@@ -25,7 +25,7 @@ public class Program
 		double vol = r*r*r;
 		return vol;
 	}
-} 
+}
 ```
 
 - Drew a pinguin and refactored the code: https://github.com/LiamB-immalle/pinguin
