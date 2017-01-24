@@ -59,6 +59,7 @@ for (var i = 1; i <= 100; i++)
                 }
             }
 ```
-- Got a struggle in class: i made an exercise which worked with the wrong output although the guys with the right output had exactly the same code. I hope to be able to fix it next class.
 
 # Javascript
+
+- started learning javascript, seems to be really similar to C# which i am already used to.
