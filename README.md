@@ -28,10 +28,10 @@ public class Program
 }
 ```
 
-- Drew a pinguin and refactored the code: https://github.com/LiamB-immalle/pinguin
-- Finished my clickergame: https://github.com/LiamB-immalle/Clicker
+- Drew a pinguin and refactored the code: [pinguin](https://github.com/LiamB-immalle/pinguin)
+- Finished my clickergame: [Clicker](https://github.com/LiamB-immalle/Clicker)
 
-- Started a game to learn how timers work, it's not yet working though: https://github.com/LiamB-immalle/timergame
+- Started a game to learn how timers work, it's not yet working though: [timergame](https://github.com/LiamB-immalle/timergame) -> never finished
 
 - Tried the FizzBuzzTest and came up with this solution:
 
