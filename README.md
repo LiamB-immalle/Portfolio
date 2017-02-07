@@ -60,6 +60,9 @@ for (var i = 1; i <= 100; i++)
             }
 ```
 
+- Learned how to make classes yesterday by [Bloons](https://github.com/LiamB-immalle/bloons)
+- Followed by [Balloons](https://github.com/LiamB-immalle/Balloons)
+
 # Javascript
 
 - started learning javascript, seems to be really similar to C# which i am already used to.
