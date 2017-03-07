@@ -31,7 +31,7 @@ public class Program
 - Drew a pinguin and refactored the code: [pinguin](https://github.com/LiamB-immalle/pinguin)
 - Finished my clickergame: [Clicker](https://github.com/LiamB-immalle/Clicker)
 
-- Started a game to learn how timers work, it's not yet working though: [timergame](https://github.com/LiamB-immalle/timergame) -> never finished
+- Started a game to learn how timers work: [timergame](https://github.com/LiamB-immalle/timergame) -> not finished
 
 - Tried the FizzBuzzTest and came up with this solution:
 
@@ -60,8 +60,13 @@ for (var i = 1; i <= 100; i++)
             }
 ```
 
-- Learned how to make classes yesterday by [Bloons](https://github.com/LiamB-immalle/bloons)
+- Learned how to make classes by [Bloons](https://github.com/LiamB-immalle/bloons)
 - Followed by [Balloons](https://github.com/LiamB-immalle/Balloons)
+- made a control panel for electricity: [ElektriciteitsControle](https://github.com/LiamB-immalle/Elektriciteitscontrole)
+- made a shoppinglist using listboxes: [Listboxen](https://github.com/LiamB-immalle/ListBoxen)
+
+
+- I started building a ledstripsimulator that would work like Arduino: [Ledstripsimulator](https://github.com/LiamB-immalle/Elektriciteitscontrole) -> planning on finishing this one some time
 
 # Javascript
 
