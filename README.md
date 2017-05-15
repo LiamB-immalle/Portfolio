@@ -68,6 +68,12 @@ for (var i = 1; i <= 100; i++)
 
 - I started building a ledstripsimulator that would work like Arduino: [Ledstripsimulator](https://github.com/LiamB-immalle/Elektriciteitscontrole) -> planning on finishing this one some time
 
+- Did some polymorphism and inheritance with the class: [Polymorphism](https://github.com/LiamB-immalle/CanvasOmDingenOpTeTekenen)
+
+- Reworked a little bit in a cyberspaceinvader program i got from my teacher: [CyberSpaceInvader](https://github.com/LiamB-immalle/CyberspaceInvadersWPF)
+
 # Javascript
 
-- started learning javascript, seems to be really similar to C# which i am already used to.
+- Started learning javascript, seems to be really similar to C# which i am already used to. -> https://learnxinyminutes.com/
+
+- Teacher told me about typescript which i am now doing instead of pure javascript.
